@@ -1,0 +1,9 @@
+body {
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-bottom: 1em;
+}
+
+li {
+    list-style-type: disc;
+}
